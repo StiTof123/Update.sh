@@ -1,4 +1,1 @@
-# Update.sh
-A test program... so that I can learn Git and Github
-br
-Stian
+Script to update all my linuxboxes. Stongly discurage to use this script in any proffesional settings. 
